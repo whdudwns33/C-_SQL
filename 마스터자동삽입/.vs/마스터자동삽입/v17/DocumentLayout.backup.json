@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD887C72-1F1C-4ACA-AC6F-832972E02DC5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD887C72-1F1C-4ACA-AC6F-832972E02DC5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD887C72-1F1C-4ACA-AC6F-832972E02DC5}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD887C72-1F1C-4ACA-AC6F-832972E02DC5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:22:53.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "D:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\\uC870\uC601\uC900\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\\uB9C8\uC2A4\uD130\uC790\uB3D9\uC0BD\uC785\\WinFormsApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T23:16:23.17Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
